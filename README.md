@@ -1,23 +1,6 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # InspoQuotes
 
 
-## What you will create
+InspoQuotes iOS Application generated from the learning and development class on Udemy, iOS & Swift - The Complete iOS App Development Bootcamp.
 
-InspoQuotes is a freemium app that gives some free inspiration and a lot of paid inspiration.  
-
-## What you will learn
-
-* How to setup new in-app purchases on App Store Connect
-* How to use the StoreKit API to allow users to purchase premium content
-* How to use the StoreKit API to detect failure cases
-* How to use the StoreKit API to restore in-app purchases
-* How to persist the state of users' purchases
-
-
-
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
+In this lesson, the goal is to generate an application that has a (sandbox) functional service of an in-app purchase. This Non-Consumable In-App Purchase can be "bought" locally through the `.storekit` test file and verified.
